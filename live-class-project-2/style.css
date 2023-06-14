@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+body{
+  background-image: linear-gradient(rgba(4, 4, 25, 0.75),rgba(4, 4, 25, 0.75)) ,url(./assets/pexels-maxyne-barcel-10402282\ 1.png);
+  background-repeat:repeat;
+  background-size: cover;
+}
+.container{
+
+}
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 3rem 7rem;
+}
+
+ul {
+  display: flex;
+}
+ul li{
+  color: rgb(233, 203, 33);
+  list-style: none;
+  margin: 5px 40px;
+}
+
+.button-small{
+  margin-right: 20px;
+  border-style: none;
+  color: white;
+  padding: 10px 25px;
+  font-size: 130%;
+  background-color:rgb(236, 93, 93);
+}
+/* ------------------------------ */
+
+/* ------------------------------ */
+/* ---------- HERO ------------ */
+.hero-heading{
+  font-family: 'Dela Gothic One', cursive;
+  font-size: 600%;
+  color: rgb(233, 203, 33);
+  text-align: center;
+  margin-left: 2in;
+  margin-right: 2in;
+  margin-top: 1.2in;
+}
+
+.button-large{
+  position: absolute;
+  right: 39%;
+  top: 7.5in ;
+  margin-right: 20px;
+  border-style: none;
+  color: white;
+  padding: 15px 30px;
+  font-size: 180%;
+  background-color:rgb(236, 93, 93);
+}
+/* --------------Added Hover effect Just for Fun--------------- */
+ul li:hover{
+  border-bottom:2px solid rgb(233, 203, 33)  ;
+}
+.button-large:hover{
+  background-color: white;
+  color: black;
+}
+.button-small:hover{
+  background-color: white;
+  color: black;
+}
+/* --------------Ending LOGO---------------- */
+.bottom img{
+  float: right;
+  margin-top: 2in;
+  margin-right: 20px;
+}
