@@ -1,0 +1,80 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: "Poppins", Helvetica, sans-serif;
+}
+
+/* ----------Nav bar----------- */
+
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin: 60px 90px;
+    
+}
+
+ul {
+    display: flex;
+    margin: 10px 0px;
+    margin-right: 4.5in;
+}
+
+ul li {
+    list-style: none;
+    padding: 5px 20px;
+    color: gray;
+}
+ul li:hover{
+    color: black;
+    font-weight: 500;
+}
+
+.nav-button1{
+    border-style: none;
+    color: white;
+    font-size: 100%;
+    background-color: rgba(46, 36, 114, 0.849);
+    padding:15px 20px;
+    border: 2px solid rgb(255, 255, 255) ;
+    border-radius: 13px;
+}
+
+/* --------------Main Body-------------- */
+.heading-text{
+    font-size: 380%;
+    color: rgba(42, 13, 79, 0.919);
+    margin-right: 9in;
+    margin-left: 1.5in;
+    margin-top: 1.7in;
+}
+.heading-text span{
+    color: rgba(31, 36, 128, 0.811);
+}
+
+.description{
+    color: rgb(154, 154, 154);
+    font-size: 100%;
+    margin-top: 35px;
+    margin-left: 1.5in;
+    margin-right: 10.5in;
+}
+
+.nav-button{
+    border-style: none;
+    color: white;
+    background-color: rgba(46, 36, 114, 0.849);
+    padding:25px 35px;
+    font-size: 120%;
+    border: 2px solid rgb(255, 255, 255) ;
+    border-radius: 15px;
+    margin-left: 1.5in;
+    margin-top: 40px;
+}
+
+.banner-container img{
+    position: absolute;
+    left: 7in;
+    bottom: 10px;
+    top: 2in;
+}
