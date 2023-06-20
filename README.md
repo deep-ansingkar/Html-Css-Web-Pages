@@ -10,42 +10,50 @@ These are only the Homepages that I have created for Educational Purpose.(1-7 ar
 - Technologies: HTML, CSS
 - [Repo link](https://github.com/deep-da/Html-Css-Web-Pages/tree/main/live-class-project-01)
 - Live Demo: [What's New Trend](https://whats-the-trend-in-2025.netlify.app/)
+![](./live-class-project-01/1.png)
 
 ### 2. Restaurant with Best Food
 
 - Technologies: HTML, CSS
 - [Repo link](https://github.com/deep-da/Html-Css-Web-Pages/tree/main/live-class-project-2)
 - Live Demo: [Restaurant with Best Food](https://restaurant-with-the-best-food.netlify.app/)
+![](./live-class-project-2/2.png)
 
 ### 3. Online Learing Platform
 
 - Technologies: HTML, CSS
 - [Repo link](https://github.com/deep-da/Html-Css-Web-Pages/tree/main/live-class-project-3)
 - Live Demo: [Online Learing Platform](https://the-online-learning-platform.netlify.app/)
+![](./live-class-project-3/3.png)
 
 ### 4. Online Code Buliding Platform for coders
 
 - Technologies: HTML, CSS
 - [Repo link](https://github.com/deep-da/Html-Css-Web-Pages/tree/main/live-class-project-4)
 - Live Demo: [Online Code Buliding Platform for coders](https://online-building-platform-for-coders.netlify.app/)
+![](./live-class-project-4/5.png)
 
 ### 5. Nature is Beautiful 
 
 - Technologies: HTML, CSS
 - [Repo link](https://github.com/deep-da/Html-Css-Web-Pages/tree/main/live-class-project-5)
 - Live Demo: [Nature is Beautiful](https://nature-is-beautiful.netlify.app/)
+![](./live-class-project-5/6.png)
 
 ### 6. Court-Justice WebApp 
 
 - Technologies: HTML, CSS
 - [Repo link](https://github.com/deep-da/Html-Css-Web-Pages/tree/main/live-class-project-6)
 - Live Demo: [Court-Justice WebApp](https://court-justice-webapp.netlify.app/)
+![](./live-class-project-6/7.png)
 
 ### 7. Online Shopping
 
 - Technologies: HTML, CSS
 - [Repo link](https://github.com/deep-da/Html-Css-Web-Pages/tree/main/live-class-project-7)
 - Live Demo: [Online Shopping](https://online-shopping-webapp.netlify.app/)
+- ![](./live-class-project-7/7.png)
+
 
 ### 8. Website Name 
 
