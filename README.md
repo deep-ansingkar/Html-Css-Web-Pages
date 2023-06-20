@@ -35,17 +35,17 @@ These are only the Homepages that I have created for Educational Purpose.(1-7 ar
 - [Repo link](https://github.com/deep-da/Html-Css-Web-Pages/tree/main/live-class-project-5)
 - Live Demo: [Nature is Beautiful](https://nature-is-beautiful.netlify.app/)
 
-### 6. Website Name 
+### 6. Court-Justice WebApp 
 
 - Technologies: HTML, CSS
-- [Repo link]()
-- Live Demo: [Website Name 15](https://www.example15.com)
+- [Repo link](https://github.com/deep-da/Html-Css-Web-Pages/tree/main/live-class-project-6)
+- Live Demo: [Court-Justice WebApp](https://court-justice-webapp.netlify.app/)
 
-### 7. Website Name 
+### 7. Online Shopping
 
 - Technologies: HTML, CSS
-- [Repo link]()
-- Live Demo: [Website Name 15](https://www.example15.com)
+- [Repo link](https://github.com/deep-da/Html-Css-Web-Pages/tree/main/live-class-project-7)
+- Live Demo: [Online Shopping](https://online-shopping-webapp.netlify.app/)
 
 ### 8. Website Name 
 
