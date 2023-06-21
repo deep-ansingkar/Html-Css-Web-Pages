@@ -52,20 +52,22 @@ These are only the Homepages that I have created for Educational Purpose.(1-7 ar
 - Technologies: HTML, CSS
 - [Repo link](https://github.com/deep-da/Html-Css-Web-Pages/tree/main/live-class-project-7)
 - Live Demo: [Online Shopping](https://online-shopping-webapp.netlify.app/)
-- ![](./live-class-project-7/7.png)
+![](./live-class-project-7/7.png)
 
 
-### 8. Website Name 
-
-- Technologies: HTML, CSS
-- [Repo link]()
-- Live Demo: [Website Name 15](https://www.example15.com)
-
-### 9 Website Name 
+### 8. WebDesigning App 
 
 - Technologies: HTML, CSS
-- [Repo link]()
-- Live Demo: [Website Name 15](https://www.example15.com)
+- [Repo link](https://github.com/deep-ansingkar/Html-Css-Web-Pages/tree/main/live-class-project-8)
+- Live Demo: [WebDesigning App](https://web-designing-app.netlify.app/)
+![](./live-class-project-8/8.png)
+
+### 9 Worldclass Production
+
+- Technologies: HTML, CSS
+- [Repo link](https://github.com/deep-ansingkar/Html-Css-Web-Pages/tree/main/live-class-project-9)
+- Live Demo: [Worldclass Production](https://worldclass-production.netlify.app/)
+![](./live-class-project-9/9.png)
 
 ### 10. Website Name 
 
