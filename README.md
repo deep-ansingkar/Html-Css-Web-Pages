@@ -10,7 +10,7 @@ These are only the Homepages that I have created for Educational Purpose.(1-7 ar
 - Technologies: HTML, CSS
 - [Repo link](https://github.com/deep-da/Html-Css-Web-Pages/tree/main/live-class-project-01)
 - Live Demo: [What's New Trend](https://whats-the-trend-in-2025.netlify.app/)
-![](./live-class-project-01/1.png)
+![](./live-class-project-1/1.png)
 
 ### 2. Restaurant with Best Food
 
