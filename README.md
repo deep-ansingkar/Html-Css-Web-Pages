@@ -69,23 +69,26 @@ These are only the Homepages that I have created for Educational Purpose.(1-7 ar
 - Live Demo: [Worldclass Production](https://worldclass-production.netlify.app/)
 ![](./live-class-project-9/9.png)
 
-### 10. Website Name 
+### 10. Interier Design Web App
 
 - Technologies: HTML, CSS
-- [Repo link]()
-- Live Demo: [Website Name 15](https://www.example15.com)
+- [Repo link](https://github.com/deep-ansingkar/Html-Css-Web-Pages/tree/main/live-class-project-10)
+- Live Demo: [Interier Design](https://interier-design-application.netlify.app/)
+![](./live-class-project-10/10.png)
 
-### 11. Website Name 
-
-- Technologies: HTML, CSS
-- [Repo link]()
-- Live Demo: [Website Name 15](https://www.example15.com)
-
-### 12. Website Name 
+### 11. Web Hosting App
 
 - Technologies: HTML, CSS
-- [Repo link]()
-- Live Demo: [Website Name 15](https://www.example15.com)
+- [Repo link](https://github.com/deep-ansingkar/Html-Css-Web-Pages/tree/main/live-class-project-11)
+- Live Demo: [Web Hosting App](https://web-hosting-application.netlify.app/)
+![](./live-class-project-11/11.png)
+
+### 12. Bussiness Solutions 
+
+- Technologies: HTML, CSS
+- [Repo link](https://github.com/deep-ansingkar/Html-Css-Web-Pages/tree/main/live-class-project-12)
+- Live Demo: [Bussiness Solutions](https://bussiness-solutions.netlify.app/)
+![](./live-class-project-12/12.png)
 
 ### 13. Website Name 
 
